@@ -1,4 +1,4 @@
-#Some Project
+# Some Project
 
 This is a library of utility functions to work with arrays. Currently, 
 it contains just one (but the most important) utility : the array
